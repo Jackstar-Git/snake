@@ -1,7 +1,7 @@
 # Snake-Game
-A snake-game made in Python using the Pygame library.
+A snake-game made in Python using the Pygame library.<br />
 
-Controls:
+Controls: <br />
   -W,A,S,D and Arrow-Key, both work <br />
   -B toggles the boost to let you go faster.
 
